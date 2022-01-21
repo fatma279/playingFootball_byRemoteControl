@@ -1,3 +1,3 @@
 # playingFootball_byRemoteControl
-using remote control to moving a ball on led matrix
-for project vedio follow this link :
+using a remote control to move a ball on led matrix
+for the project video follow this link :
